@@ -1,2 +1,2 @@
-# HacktoberFestRepo
+# HacktoberFestRepos
 Let's explore the code ...
